@@ -7,8 +7,7 @@ import type {
   Announcement, 
   Feature, 
   Testimonial, 
-  FAQ,
-  hasStatus 
+  FAQ
 } from '@/types';
 
 export const cosmic = createBucketClient({
